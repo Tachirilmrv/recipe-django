@@ -1,5 +1,4 @@
 FROM python:3.10-alpine
-MAINTAINER Tachiri
 
 ENV PYTHONUNBUFFERED 1
 
